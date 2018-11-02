@@ -14,4 +14,3 @@ To try out the demo locally, clone the repo and run the following:
 
         gulp dev
 
-<img src="http://i.imgur.com/Y2yafBv.png" width="304px" height="366xpx" />
